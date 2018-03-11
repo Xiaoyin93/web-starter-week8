@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css?family=Hind+Siliguri|Questrial");
+body {
+  background-color: #141414;
+  background-image: url("../images/back.jpg");
+  font-family: "Questrial", sans-serif, "Questrial", sans-serif, "Questrial", sans-serif; }
+
+h6 {
+  font-family: "Hind Siliguri", sans-serif, "Hind Siliguri", sans-serif, "Hind Siliguri", sans-serif; }
+
+h5 {
+  font-family: "Hind Siliguri", sans-serif, "Hind Siliguri", sans-serif, "Hind Siliguri", sans-serif; }
+
+h4 {
+  font-family: "Hind Siliguri", sans-serif, "Hind Siliguri", sans-serif, "Hind Siliguri", sans-serif; }
+
+h1 {
+  color: white; }
+
+.content-box {
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding-top: 15px;
+  background-color: #141414; }
+
+.hero-top {
+  background: url("../images/cover.jpg") no-repeat center center;
+  background-size: cover; }
+  .hero-top .lead {
+    color: #ccccc; }
+
+.dark-transparency {
+  padding: 25px;
+  background-color: rgba(0, 0, 0, 0.35); }
+
+@media (max-width: 575px) {
+  .content-box {
+    margin-top: 0;
+    margin-bottom: 0; } }
